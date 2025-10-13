@@ -1,1 +1,1 @@
-simple school system for OOP practice 
+simple school system for OOP practise 
